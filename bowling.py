@@ -6,4 +6,4 @@ class Game:
         self._rolls.append(pins)
 
     def score(self):
-        return 0
+        return sum(self._rolls)
