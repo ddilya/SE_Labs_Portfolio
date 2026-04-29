@@ -1,5 +1,5 @@
 Project Documentation: Task Manager
-This section contains the architectural design diagrams for the DailyGlow Task Management system. These documents outline the system's requirements, structure, and dynamic behavior.
+This section contains the architectural design diagrams for the Task Management system. These documents outline the system's requirements, structure, and dynamic behavior.
 
 Design Documents
 1. Use Case Diagram
